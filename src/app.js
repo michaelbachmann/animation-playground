@@ -1,6 +1,7 @@
 import './scss/index.scss'
 import { TweenMax, Power2, TimelineLite } from 'gsap'
 import $ from 'jquery'
+import html from './index.html';
 
 /*
 document.addEventListener("DOMContentLoaded", function() {
